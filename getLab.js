@@ -30,4 +30,4 @@ let studentLabs2 = [
     return "All passed"
   }
   
-  console.log(gradeLabs(studentLabs2)
+  console.log(gradeLabs(studentLabs2))
